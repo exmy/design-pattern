@@ -4,23 +4,23 @@
 
 ##### creation
 
-* [x] abstract factory
-* [x] builder
+* [] abstract factory
+* [] builder
 * factory
 * prototype
 
 ##### structure
 
 * adapter
-* [x] bridge
-* [x] composite
+* [] bridge
+* [] composite
 * decorator
 * facade
 * proxy
 
 ##### behavior
 
-* [x] chain
+* chain
 * iterator
 * mediator
 * observer
