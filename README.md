@@ -26,4 +26,5 @@
 * observer
 * state
 * strategy
+* template
 
