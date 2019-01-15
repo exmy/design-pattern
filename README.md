@@ -12,7 +12,7 @@
 ##### structure
 
 * adapter
-* [] bridge
+* bridge
 * [] composite
 * decorator
 * facade
@@ -21,6 +21,7 @@
 ##### behavior
 
 * chain
+* command
 * iterator
 * mediator
 * observer
