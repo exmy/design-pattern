@@ -5,7 +5,7 @@
 ##### creation
 
 * [] abstract factory
-* [] builder
+* builder
 * factory
 * prototype
 
